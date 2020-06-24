@@ -22,7 +22,7 @@
   </metadata>
 
   <files>
-     <file src="../bin/release/netcoreapp3.1/commanet.Application.dll" target="lib/netcoreapp3.1/commanet.Application.dll"/>
+     <file src="../bin/release/netcoreapp3.1/commanet.Excel.dll" target="lib/netcoreapp3.1/commanet.Excel.dll"/>
   </files>
  
 </package>
